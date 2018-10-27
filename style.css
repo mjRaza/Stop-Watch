@@ -1,0 +1,25 @@
+#container 
+{
+
+    width: 50%;
+   
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 3%;
+}
+#minutes
+{
+    margin-left: 48%;
+}
+
+.btn
+{
+    width:14%;
+}
+
+#buttons
+{
+
+margin-left: 40%
+
+}
